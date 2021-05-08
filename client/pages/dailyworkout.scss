@@ -1,0 +1,72 @@
+.dailyWorkout{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+  }
+
+.table{
+    width: 800px;
+}
+.inputBox{
+    display: flex;
+    align-items: stretch;
+
+}
+
+.inputBox input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+    padding: 4.5px;
+    position: relative;
+    border: 1px solid #b4aeae;
+    border-radius: 4px;
+}
+.moveInput{
+    margin-right: 10px;
+
+    width: 260px;
+    margin-right: 10px;
+}
+.setsInput{
+    width: 260px;
+    margin-right: 10px;
+
+}
+.repsInput{
+    width: 260px;
+
+}
+.addExeriseButton{
+    display: block;
+    width: 100%;
+    padding: 4.5px;
+    border: 1px solid rgb(155, 187, 224);
+    background-color: rgb(155, 187, 224);
+    border-radius: 4px;
+    color: #1a5fad;
+    font-size: 15px;
+    font-weight:700;
+}
+.submitButton{
+    display: block;
+    width: 100%;
+    padding: 4.5px;
+    border: 1px solid rgb(155, 187, 224);
+    background-color: rgb(155, 187, 224);
+    border-radius: 4px;
+    color: #1a5fad;
+    font-size: 15px;
+    font-weight:700;
+    margin-top: 10px;
+
+}
+
+.select{
+    width: 300px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
